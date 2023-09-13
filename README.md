@@ -1,4 +1,4 @@
-Employee Management System
+Employee Management System.
 
 This project is an Employee Management System (EMS) implemented using Python and MySQL.It follows a class-based structure to manage interactions with the database,including creating databases,tables,and performing CRUD (Create,Read,Update,Delete) operations on employee records.
 
