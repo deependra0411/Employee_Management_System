@@ -74,7 +74,7 @@ e1.insert_employee(id=2, name="name", post="post", salary=salary)
 e1.insert_employee(id=3, name="name", post="post", salary=salary)
 
 e1.delete_employee(1)          # For deleting employee using Id
-e1.promote_employee(2, "New_Post", salary incremenmt percentage)   # For Promoting employee usinf Id, New_Post, Percentage increase in salary.
+e1.promote_employee(2, "New_Post", salary incremenmt percentage)   # For Promoting employee using Id, New_Post, Percentage increase in salary.
 
 s = "SELECT * FROM {}".format(table_name)   # To fetch all Employees
 e1.cur.execute(s)
